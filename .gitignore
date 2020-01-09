@@ -1,0 +1,5 @@
+.DS_Store
+LSTM/__pycache__/
+*.pyc
+stanford-corenlp-full-2018-02-27/
+NET/model*
